@@ -1,0 +1,88 @@
+
+*{
+  margin: 0;
+}
+
+.mainBody {
+  background-color: #143756;
+}
+
+/* Navigation Bar */
+.navbar{
+background-color: #143756;
+border-bottom: 7px solid ;
+border-color: #00cccc;
+}
+
+.navbar-brand {
+  margin-left: 30px;
+}
+
+.brandLogo {
+  max-width: 312.5%;
+}
+
+.tagline{
+  font-size: 80%;
+  color: #fff;
+  width: 100px;
+  text-align: center;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  right: 25px;
+}
+.introLine{
+  font-size: 125%;
+  margin-top: 10px;
+  color: #fff;
+  width: 150px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.rectangleShape {
+  height: 200px;
+  width: 400px;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rectangleShape h2 {
+  text-align: center;
+  padding-top: 80px;
+  color: #143756;
+  font-size: 20px;
+}
+
+
+/* Buttons */
+.buttons {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.conferenceButton {
+  width: 40%;
+  height: 60px;
+  margin-top: 30px;
+  margin-left: 15px;;
+}
+
+.otherButtons {
+  width: 40%;
+  height: 60px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.lastButton {
+  width: 40%;
+  height: 60px;
+  margin-top: 30px;
+  margin-left: 120px;
+
+}
